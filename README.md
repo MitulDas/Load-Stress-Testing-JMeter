@@ -1,4 +1,4 @@
-# Load-Stress-Testing-JMeter
+# Load&Stress-Testing-JMeter
 
 HTTP Methode:
 POST Method: Create new booking

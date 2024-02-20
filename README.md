@@ -1,7 +1,7 @@
 # Performance Test Report for Test App API 🚀
 
 ## API Methods Overview 🌐
-- `POST` Method: Create new booking
+- `POST` Method: Create a new booking
 - `GET` Method: Get booking with id
 - `POST` Method: Authentication for token
 - `PUT` Method: Update booking info
@@ -13,7 +13,7 @@
 
 I’ve completed a comprehensive performance test on frequently used APIs for the Test App. These tests were conducted on the server with IP `000.000.000.00`.
 
-### Test Scenarios and Results 📊
+### Test Scenarios and Result📊
 
 > 🔹 **1500 Concurrent Requests**
 > - **Loop Count:** 1
